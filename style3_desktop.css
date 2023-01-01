@@ -1,0 +1,21 @@
+@media (min-width:1200px){
+
+    /*************** Header ****************/
+    .hcontainer {
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+    /*************** Main *****************/
+    .mcontainer {
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+    /************** Footer ***************/
+    .fcontainer {
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+}

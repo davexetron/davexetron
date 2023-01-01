@@ -1,0 +1,11 @@
+@media (min-width:900px){
+
+    /******* Header *********/
+    .logo {
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+}
